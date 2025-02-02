@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer eager to explore new te
 
 ## 🗂️ Featured Projects
 
-- [AI Form Builder SaaS Application](https://github.com/Yash-Satpute-2711/project1) - A smart form builder powered by AI, using Next.js, React, and TailwindCSS.
+- [AI Form Builder SaaS Application]([https://github.com/Yash-Satpute-2711/project1](https://github.com/Yash-Satpute-2711/ai-form-builder.git)) - A smart form builder powered by AI, using Next.js, React, and TailwindCSS.
 - [AI Content Generator](https://github.com/Yash-Satpute-2711/project2) - A content creation tool leveraging APIs and AI for dynamic content generation.
 - [AI Trip Planner](https://github.com/Yash-Satpute-2711/project3) - A web app for personalized trip planning using AI algorithms and APIs.
 
