@@ -1,3 +1,5 @@
+![Developer Banner](https://via.placeholder.com/1200x300.png?text=Passionate+Developer+%7C+Tech+Enthusiast+%7C+AI+Innovator)
+
 # Hi there, I'm Yash Ankush Satpute 👋
 
 Welcome to my GitHub profile! I'm a passionate developer eager to explore new technologies, enhance my skills, and contribute to the tech community. 
