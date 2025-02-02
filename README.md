@@ -1,4 +1,4 @@
-![Developer Banner](https://www.fastmail.com/assets/images/HeroImage_WhyGmailUsersAreSwitchingToFastmailBlog_final1400x500-yQs3akQdge-749.png/1200x300.png?text=Passionate+Developer+%7C+Tech+Enthusiast+%7C+AI+Innovator)
+![Developer Banner](https://www.fastmail.com/assets/images/HeroImage_WhyGmailUsersAreSwitchingToFastmailBlog_final1400x500-yQs3akQdge-749.png)
 
 # Hi there, I'm Yash Ankush Satpute 👋
 
@@ -12,6 +12,16 @@ Welcome to my GitHub profile! I'm a passionate developer eager to explore new te
 - 🌱 **Learning:** Next.js, React, TailwindCSS, Drizzle ORM, Neon, Gemini API, Clerk, and Vercel.
 - 🧪 **Interests:** Software Development, AI Integration, API Development, SaaS Applications, and Web Hosting.
 - 💬 **Ask Me About:** Web Development, AI-based Applications, Next.js, React, API Integrations, and SaaS Platforms.
+
+## 💡 Programming Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+</p>
 
 ## 🗂️ Featured Projects
 
