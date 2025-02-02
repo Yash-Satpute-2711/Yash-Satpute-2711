@@ -1,4 +1,4 @@
-![Developer Banner](https://via.placeholder.com/1200x300.png?text=Passionate+Developer+%7C+Tech+Enthusiast+%7C+AI+Innovator)
+![Developer Banner](https://www.fastmail.com/assets/images/HeroImage_WhyGmailUsersAreSwitchingToFastmailBlog_final1400x500-yQs3akQdge-749.png/1200x300.png?text=Passionate+Developer+%7C+Tech+Enthusiast+%7C+AI+Innovator)
 
 # Hi there, I'm Yash Ankush Satpute 👋
 
