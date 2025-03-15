@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.fastmail.com/assets/images/HeroImage_WhyGmailUsersAreSwitchingToFastmailBlog_final1400x500-yQs3akQdge-749.png" alt="Developer Banner" style="max-width: 100%; height: auto;"/>
+  <img src="[https://www.fastmail.com/assets/images/HeroImage_WhyGmailUsersAreSwitchingToFastmailBlog_final1400x500-yQs3akQdge-749.png](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png)" alt="Developer Banner" style="max-width: 100%; height: auto;"/>
 </p>
 
 # Hi there, I'm Yash Ankush Satpute 👋
